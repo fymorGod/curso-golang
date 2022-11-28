@@ -38,4 +38,11 @@ func main() {
 
 	coisa = produto{"Lapis", 12.30}
 	imprimir(coisa)
+
+	p2 := produto{
+		nome:  "Calça Jeans",
+		preco: 79.90,
+	}
+	imprimir(p2)
+
 }
