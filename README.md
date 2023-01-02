@@ -37,7 +37,7 @@
   -> command with keys Ctrl + Alt + N 
 ```
 ## Concorrência vs Paralelismo
-<p>
+<p width="500">
     
     Paralelismo - é quando temos processamentos simultâneos, ou seja, processos ativos no mesmo instante. Trabalhando de forma paralela, ao mesmo tempo.
 
@@ -58,7 +58,8 @@
     Uma Thread seria uma função capaz de destribuir multiplas funções para serem executadas simultaneamente.
     <h3>Um bom exemplo seria:</h3>
     
-    Há um casal em um shopping que foram para assistir um filme. Nesse contexto, eles seguem um fluxo de atividades(TASKS) antes de iniciar a sessão de cinema.
+    Há um casal em um shopping que foram para assistir um filme. 
+    Nesse contexto, eles seguem um fluxo de atividades(TASKS) antes de iniciar a sessão de cinema.
 
   ### Tasks:
   - Comprar o Lanche
