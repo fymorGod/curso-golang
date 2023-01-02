@@ -37,7 +37,7 @@
   -> command with keys Ctrl + Alt + N 
 ```
 ## Concorrência vs Paralelismo
-<p width="500">
+<p width="800">
     
     Paralelismo - é quando temos processamentos simultâneos, ou seja, processos ativos no mesmo instante. Trabalhando de forma paralela, ao mesmo tempo.
 
