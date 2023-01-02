@@ -37,13 +37,16 @@
   -> command with keys Ctrl + Alt + N 
 ```
 ## Concorrência vs Paralelismo
-<p width="800">
+<p width="500">
     
-    Paralelismo - é quando temos processamentos simultâneos, ou seja, processos ativos no mesmo instante. Trabalhando de forma paralela, ao mesmo tempo.
+    Paralelismo - é quando temos processamentos simultâneos, ou seja, processos 
+    ativos no mesmo instante. Trabalhando de forma paralela, ao mesmo tempo.
 
-    Concorrência - é a capacidade de administrar multiplas tarefas, podendo ocorrer em um único processador (Core/Núcleo).
+    Concorrência - é a capacidade de administrar multiplas tarefas, podendo
+     ocorrer em um único processador (Core/Núcleo).
   
-    É possível que a concorrência seja melhor que o parelelismo, pois este exige muito mais do SO e do hardware.
+    É possível que a concorrência seja melhor que o parelelismo, pois este exige 
+    muito mais do SO e do hardware.
 
 ---
 </p>
