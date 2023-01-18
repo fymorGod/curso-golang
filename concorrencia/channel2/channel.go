@@ -6,7 +6,7 @@ import (
 )
 
 //Channel(canal) - é forma de comunicação entre goroutines
-// channel é um tipo
+// channel é um tipo assim como bolean ou inteiro
 
 func doisTresQuatroVezes(base int, c chan int) {
 	time.Sleep(time.Second)
