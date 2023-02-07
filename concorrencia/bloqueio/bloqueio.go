@@ -17,4 +17,7 @@ func main() {
 	go rotina(c)
 
 	fmt.Println(<-c) // operação bloqueante
+	fmt.Println("Foi lido")
+	fmt.Println(<-c) // deadlock
+	fmt.Println("Fim")
 }
